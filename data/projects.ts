@@ -7,7 +7,7 @@ export const projects: Project[] = [
     description: "Mon portfolio personnel et mes expérimentations web.",
     technologies: ["Next.js", "TypeScript", "Tailwind"],
     status: "live",
-    url: "https://florian-leborgne.vercel.app/",
+    url: "https://florianleborgne-seven.vercel.app/",
   },
   {
     title: "MovieCoDB",
