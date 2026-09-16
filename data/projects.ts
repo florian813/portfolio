@@ -27,7 +27,7 @@ export const projects: Project[] = [
   },
   {
     title: "Outil de gestion de projets",
-    description: "Service de recherche de lieux sportifs, projet réalisé dans le cadre de ma formation. ",
+    description: "projet en J2EE avec SpringBoot (en langage Java) est une partie d'un module sur l'outil de gestion de Projet et Equipe,projet réalisé dans le cadre de ma formation. ",
     technologies: ["Java", "SpringBoot","Maven" ,"PostgreSQL","Vue.Js","JavaScript","Jira","API"],
     image:"",
     repositoryUrl:"https://gitlab.com/florian_leborgne813/j2ee",
