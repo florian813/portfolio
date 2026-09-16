@@ -30,7 +30,7 @@ export const projects: Project[] = [
     description: "Service de recherche de lieux sportifs, projet réalisé dans le cadre de ma formation. ",
     technologies: ["Java", "SpringBoot","Maven" ,"PostgreSQL","Vue.Js","JavaScript","Jira","API"],
     image:"",
-    repositoryUrl:"https://gitlab.com/florian_leborgne813/know-sports",
+    repositoryUrl:"https://gitlab.com/florian_leborgne813/j2ee",
     status: "local",
   },
   
