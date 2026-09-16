@@ -17,4 +17,21 @@ export const projects: Project[] = [
     repositoryUrl:"https://gitlab.com/florian_leborgne813/moviecodb",
     status: "local",
   },
+  {
+    title: "API KnowSports",
+    description: "Service de recherche de lieux sportifs, projet réalisé dans le cadre de ma formation. ",
+    technologies: ["Python", "Swagger", "SQL","API"],
+    image:"",
+    repositoryUrl:"https://gitlab.com/florian_leborgne813/know-sports",
+    status: "local",
+  },
+  {
+    title: "Outil de gestion de projets",
+    description: "Service de recherche de lieux sportifs, projet réalisé dans le cadre de ma formation. ",
+    technologies: ["Java", "SpringBoot","Maven" ,"PostgreSQL","Vue.Js","JavaScript","Jira","API"],
+    image:"",
+    repositoryUrl:"https://gitlab.com/florian_leborgne813/know-sports",
+    status: "local",
+  },
+  
 ];
